@@ -8,7 +8,7 @@ Information theory provides a framework for understanding the fundamental princi
 
 ## Learning as By-Product of Information Transmission:
 
-Fundamentally, learning can be viewed as the by-product of information transmission from a source to a destination, with compression playing a crucial role in this process. The mechanism underlying learning is inherently linked to the compression of information, where predictive modeling is equivalent to compression. This implies that next-word prediction tasks, commonly employed in language modeling, are essentially compression tasks.
+Fundamentally, learning can be viewed as the by-product of information transmission, with compression playing a pivotal role. The mechanism underlying learning is inherently linked to the compression of information, where predictive modeling is equivalent to compression. This implies that next-word prediction tasks, commonly employed in language modeling, are essentially compression tasks.
 
 ## Implications for Model Design and Learning Paradigms:
 
