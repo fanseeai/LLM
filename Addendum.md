@@ -4,7 +4,7 @@ Self-attention, a key component of transformer-based models, allows each word in
 
 # Leveraging Information Theory for Efficient LLM Design:
 
-Information theory provides a framework for understanding the fundamental principles governing information transmission and compression. We propose that by incorporating insights from information theory into the design of language models, we can maximize their efficiency and effectiveness. Specifically, we advocate for optimizing self-attention mechanisms based on principles such as entropy, mutual information, and compression algorithms.
+Information theory provides a framework for understanding the fundamental principles governing information transmission and compression. We propose that by incorporating insights from information theory into the design of language models, we can maximize their efficiency and effectiveness. 
 
 # Learning as By-Product of Information Transmission:
 
