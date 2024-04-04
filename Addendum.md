@@ -12,4 +12,4 @@ Fundamentally, learning can be viewed as the by-product of information transmiss
 
 # Implications for Model Design and Learning Paradigms:
 
-The significance of this perspective is — it suggests that learning can occur through information transmission and compression, irrespective of the type of information being processed. This insight opens doors to designing more versatile and adaptable models capable of learning from diverse data sources and domains. By focusing on maximizing information transmission and compression efficiency, we can develop language models that excel across a wide range of tasks and datasets.
+The significance of this perspective is — it suggests that learning can occur through information transmission and compression, irrespective of the type of information being processed. This insight opens doors to designing more versatile and adaptable models capable of learning from diverse data sources and domains. By focusing on maximizing information transmission and compression efficiency, we can develop models that excel across a wide range of learning tasks and datasets.
